@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="1a9d8207-6147-4ac8-847b-cfecf84566f4" name="vhoster" url="https://naughtysight.ru/add_parser2/">
+        <fileTransfer host="91.200.14.127" port="21" rootFolder="/www/naughtysight.ru/add_parser2" password="dfcbdfc5dfdfdf9fdfeddfc6dfefdfe8dff9dfffdf9fdf98dff9dfc9df99dfe3dff3dfe1dfdddf9b" username="ftpnside">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>

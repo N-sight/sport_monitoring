@@ -1,0 +1,897 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="9d68342c-e7b4-4b11-8756-0d37f7388169" name="Default" comment="" />
+    <ignored path="par.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <ignored path=".idea/dataSources.local.xml" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="par" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
+      <file leaf-file-name="helper.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/helper.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1173">
+              <caret line="519" column="0" selection-start-line="519" selection-start-column="0" selection-end-line="519" selection-end-column="0" />
+              <folding>
+                <element signature="n#date_valid#0;n#!!top" expanded="false" />
+                <element signature="n#date_check5day#0;n#!!top" expanded="false" />
+                <element signature="n#get_yesterday#0;n#!!top" expanded="false" />
+                <element signature="n#get_pre_yesterday#0;n#!!top" expanded="false" />
+                <element signature="e#3196#3956#0#PHP" expanded="false" />
+                <element signature="n#shortpause2#0;n#!!top" expanded="false" />
+                <element signature="n#writeln#0;n#!!top" expanded="false" />
+                <element signature="n#get_bold#0;n#!!top" expanded="false" />
+                <element signature="n#num_month_to_name#0;n#!!top" expanded="false" />
+                <element signature="n#name_month_to_num#0;n#!!top" expanded="false" />
+                <element signature="n#month_name_convert_shorten_toru#0;n#!!top" expanded="false" />
+                <element signature="n#month_name_convert_shorten_tonum#0;n#!!top" expanded="false" />
+                <element signature="n#get_between#0;n#!!top" expanded="false" />
+                <element signature="n#XMLtoArray#0;n#!!top" expanded="false" />
+                <element signature="n#cutblock#0;n#!!top" expanded="false" />
+                <element signature="n#cut_leftspaces#0;n#!!top" expanded="false" />
+                <element signature="n#target_com#0;n#!!top" expanded="false" />
+                <element signature="n#target_news#0;n#!!top" expanded="false" />
+                <element signature="n#deb#0;n#!!top" expanded="false" />
+                <element signature="n#mb_str_replace#0;n#!!top" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="delivery.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/views/delivery.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2261">
+              <caret line="133" column="13" selection-start-line="133" selection-start-column="13" selection-end-line="133" selection-end-column="13" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="controller.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/controller.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="493">
+              <caret line="59" column="9" selection-start-line="59" selection-start-column="9" selection-end-line="59" selection-end-column="9" />
+              <folding>
+                <element signature="e#79#630#0#PHP" expanded="false" />
+                <element signature="e#682#868#0#PHP" expanded="false" />
+                <element signature="e#1655#2278#0#PHP" expanded="false" />
+                <element signature="e#2283#2893#0#PHP" expanded="false" />
+                <element signature="e#2898#3499#0#PHP" expanded="false" />
+                <element signature="e#4108#4672#0#PHP" expanded="false" />
+                <element signature="e#4677#5259#0#PHP" expanded="false" />
+                <element signature="n#render#0;n#!!top" expanded="false" />
+                <element signature="n#crawl_render#0;n#!!top" expanded="false" />
+                <element signature="n#tech_render#0;n#!!top" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="option.css.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/css/option.css.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="17">
+              <caret line="1" column="49" selection-start-line="1" selection-start-column="49" selection-end-line="1" selection-end-column="49" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="init.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/views/init.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="51">
+              <caret line="3" column="13" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="parse_eurosport.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/parse_eurosport.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="425">
+              <caret line="25" column="66" selection-start-line="25" selection-start-column="66" selection-end-line="25" selection-end-column="66" />
+              <folding>
+                <element signature="e#1063#1564#0#PHP" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/index.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="34">
+              <caret line="2" column="18" selection-start-line="2" selection-start-column="18" selection-end-line="2" selection-end-column="18" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/example.html" />
+        <option value="$PROJECT_DIR$/example_new.html" />
+        <option value="$PROJECT_DIR$/target.php" />
+        <option value="$PROJECT_DIR$/clipboard.min.js" />
+        <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/css/update.css" />
+        <option value="$PROJECT_DIR$/inbound.php" />
+        <option value="$PROJECT_DIR$/views/layout.php" />
+        <option value="$PROJECT_DIR$/test.xml" />
+        <option value="$PROJECT_DIR$/test.js" />
+        <option value="$PROJECT_DIR$/views/debug.php" />
+        <option value="$PROJECT_DIR$/test.html" />
+        <option value="$PROJECT_DIR$/test2.html" />
+        <option value="$PROJECT_DIR$/js/tcal.js" />
+        <option value="$PROJECT_DIR$/js/tcal_en.js" />
+        <option value="$PROJECT_DIR$/css/tcal.css" />
+        <option value="$PROJECT_DIR$/init.php" />
+        <option value="$PROJECT_DIR$/views/crawl_result.php" />
+        <option value="$PROJECT_DIR$/js/option.js" />
+        <option value="$PROJECT_DIR$/crawler_champion.php" />
+        <option value="$PROJECT_DIR$/crawler_sovet.php" />
+        <option value="$PROJECT_DIR$/crawler_sportex.php" />
+        <option value="$PROJECT_DIR$/crawler_soccer.php" />
+        <option value="$PROJECT_DIR$/test.php" />
+        <option value="$PROJECT_DIR$/crawler_bob.php" />
+        <option value="$PROJECT_DIR$/crawler_sports.php" />
+        <option value="$PROJECT_DIR$/format.txt" />
+        <option value="$PROJECT_DIR$/parse_sovet.php" />
+        <option value="$PROJECT_DIR$/parse_sports.php" />
+        <option value="$PROJECT_DIR$/parse_champion.php" />
+        <option value="$PROJECT_DIR$/parse_bob.php" />
+        <option value="$PROJECT_DIR$/parse_soccer.php" />
+        <option value="$PROJECT_DIR$/helper.php" />
+        <option value="$PROJECT_DIR$/history.txt" />
+        <option value="$PROJECT_DIR$/parse_sportex.php" />
+        <option value="$PROJECT_DIR$/parse_eurosport.php" />
+        <option value="$PROJECT_DIR$/views/delivery.php" />
+        <option value="$PROJECT_DIR$/crawler_eurosport.php" />
+        <option value="$PROJECT_DIR$/css/option.css.php" />
+        <option value="$PROJECT_DIR$/views/init.php" />
+        <option value="$PROJECT_DIR$/controller.php" />
+        <option value="$PROJECT_DIR$/index.php" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="PhpDebugGeneral" notify_if_session_was_finished_without_being_paused="false" />
+  <component name="PhpServers">
+    <servers>
+      <server host="par/" id="c0014cc2-07c5-4fb6-b840-aad6bdb3201b" name="parser" />
+      <server host="naughtysight.ru" id="f0e22528-c771-4404-96eb-3fef99b862c1" name="naughtysight.ru" use_path_mappings="true">
+        <path_mappings>
+          <mapping local-root="$PROJECT_DIR$" remote-root="/www/naughtysight.ru/add_parser2" />
+        </path_mappings>
+      </server>
+      <server host="par" id="3fac7ffe-fb13-4488-bbf5-457408a684ff" name="par" />
+    </servers>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1936" />
+    <option name="height" value="1056" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="par" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="par" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="par" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="par" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="par" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="views" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scratches" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../wp" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="js-jscs-nodeInterpreter" value="C:\Program Files\nodejs\node.exe" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+    <property name="settings.editor.splitter.proportion" value="0.2" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="W:\domains\par" />
+    </key>
+  </component>
+  <component name="RunManager" selected="PHP Web Application.XDebug">
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
+      <TestRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpBehatConfigurationType" factoryName="Behat">
+      <BehatRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpBuiltInWebServerConfigurationType" factoryName="PHP Built-in Web Server">
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpHttpRequestRunConfigurationType" factoryName="PHP HTTP Request">
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpLocalRunConfigurationType" factoryName="PHP Console">
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpRemoteDebugRunConfigurationType" factoryName="PHP Remote Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpWebAppRunConfigurationType" factoryName="PHP Web Application">
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run-script" />
+      <scripts />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="XDebug" type="PhpWebAppRunConfigurationType" factoryName="PHP Web Application" browser="a7bb68e0-33c0-4d6f-a81a-aac1fdb870c8" server_name="naughtysight.ru" start_url="/add_parser2/">
+      <method />
+    </configuration>
+    <list size="1">
+      <item index="0" class="java.lang.String" itemvalue="PHP Web Application.XDebug" />
+    </list>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9d68342c-e7b4-4b11-8756-0d37f7388169" name="Default" comment="" />
+      <created>1476108306210</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1476108306210</updated>
+      <workItem from="1476108308067" duration="16084000" />
+      <workItem from="1476285738358" duration="3568000" />
+      <workItem from="1476302699438" duration="224000" />
+      <workItem from="1476303000295" duration="124947000" />
+      <workItem from="1477028592161" duration="3426000" />
+      <workItem from="1477250489877" duration="107052000" />
+      <workItem from="1477681284849" duration="123180000" />
+      <workItem from="1478416379861" duration="35548000" />
+      <workItem from="1479304650728" duration="1017000" />
+      <workItem from="1479551275933" duration="15012000" />
+      <workItem from="1479800363174" duration="3645000" />
+      <workItem from="1479872149123" duration="1244000" />
+      <workItem from="1480526585977" duration="9305000" />
+      <workItem from="1481008544970" duration="8358000" />
+      <workItem from="1482903346670" duration="609000" />
+      <workItem from="1483363298869" duration="3030000" />
+      <workItem from="1484240064633" duration="14256000" />
+      <workItem from="1485168572332" duration="6345000" />
+      <workItem from="1485244462439" duration="975000" />
+      <workItem from="1485342927218" duration="976000" />
+      <workItem from="1487542417523" duration="547000" />
+      <workItem from="1489635337699" duration="3230000" />
+      <workItem from="1490166855787" duration="607000" />
+      <workItem from="1490907680929" duration="419000" />
+      <workItem from="1491853045104" duration="937000" />
+      <workItem from="1493754171502" duration="106000" />
+      <workItem from="1493819830840" duration="52515000" />
+      <workItem from="1494187697668" duration="3790000" />
+      <workItem from="1494360172754" duration="175000" />
+      <workItem from="1494428218410" duration="206251000" />
+      <workItem from="1495806143565" duration="116059000" />
+      <workItem from="1496318192298" duration="15097000" />
+      <workItem from="1496404729608" duration="76857000" />
+      <workItem from="1496824929564" duration="60020000" />
+      <workItem from="1497465235430" duration="662000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="1016073000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="7" />
+    <editor active="false" />
+    <layout>
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.16770834" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.35560346" sideWeight="0.50208336" order="0" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="File Transfer" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.16271552" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="3" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.53556037" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4515086" sideWeight="0.49791667" order="6" side_tool="false" content_ui="tabs" />
+    </layout>
+    <layout-to-restore>
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.35582155" sideWeight="0.50208336" order="1" side_tool="true" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="File Transfer" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.1632209" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.12828602" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="3" side_tool="false" content_ui="combo" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.53556037" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.28663793" sideWeight="0.49791667" order="7" side_tool="false" content_ui="tabs" />
+    </layout-to-restore>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints-dialog>
+        <breakpoints-dialog />
+      </breakpoints-dialog>
+      <option name="time" value="198" />
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="index.php">
+        <watch expression="mb_strlen($allnews [$i]['time'])&lt;6" language="PHP" />
+      </configuration>
+      <configuration name="PhpWebAppRunConfigurationType">
+        <watch expression="$i" language="PHP" />
+        <watch expression="$blockcomm [$i]" language="PHP" />
+        <watch expression="$str" language="PHP" />
+        <watch expression="$j" language="PHP" />
+        <watch expression="$flag" language="PHP" />
+        <watch expression="$blockcomm [$i + $j]" language="PHP" />
+      </configuration>
+    </watches-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/crawler_sports.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="308" column="4" selection-start-line="308" selection-start-column="4" selection-end-line="309" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/helper.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="20" selection-start-line="3" selection-start-column="20" selection-end-line="3" selection-end-column="20" />
+          <folding>
+            <element signature="n#date_valid#0;n#!!top" expanded="false" />
+            <element signature="n#date_check5day#0;n#!!top" expanded="false" />
+            <element signature="n#get_yesterday#0;n#!!top" expanded="false" />
+            <element signature="n#get_pre_yesterday#0;n#!!top" expanded="false" />
+            <element signature="e#3196#3956#0#PHP" expanded="false" />
+            <element signature="n#shortpause2#0;n#!!top" expanded="false" />
+            <element signature="n#writeln#0;n#!!top" expanded="false" />
+            <element signature="n#get_bold#0;n#!!top" expanded="false" />
+            <element signature="n#num_month_to_name#0;n#!!top" expanded="false" />
+            <element signature="n#name_month_to_num#0;n#!!top" expanded="false" />
+            <element signature="n#month_name_convert_shorten_toru#0;n#!!top" expanded="false" />
+            <element signature="n#month_name_convert_shorten_tonum#0;n#!!top" expanded="false" />
+            <element signature="n#get_between#0;n#!!top" expanded="false" />
+            <element signature="n#XMLtoArray#0;n#!!top" expanded="false" />
+            <element signature="n#cutblock#0;n#!!top" expanded="false" />
+            <element signature="n#cut_leftspaces#0;n#!!top" expanded="false" />
+            <element signature="n#target_com#0;n#!!top" expanded="false" />
+            <element signature="n#target_news#0;n#!!top" expanded="false" />
+            <element signature="n#deb#0;n#!!top" expanded="false" />
+            <element signature="n#mb_str_replace#0;n#!!top" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.php" />
+    <entry file="file://$PROJECT_DIR$/index.php" />
+    <entry file="file://$PROJECT_DIR$/Snoopy.class.php" />
+    <entry file="file://$PROJECT_DIR$/dom.php" />
+    <entry file="file://$PROJECT_DIR$/example.html" />
+    <entry file="file://$PROJECT_DIR$/example_new.html" />
+    <entry file="file://$PROJECT_DIR$/clipboard.min.js" />
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/Temp1_629c0fadb3ef34dbdd577c3a8b4595b3c62de036.zip/file.php" />
+    <entry file="file://$PROJECT_DIR$/.gitignore" />
+    <entry file="file://$PROJECT_DIR$/pages/index.html" />
+    <entry file="file://$PROJECT_DIR$/index2.html" />
+    <entry file="file://$PROJECT_DIR$/index.html" />
+    <entry file="file://$PROJECT_DIR$/test.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="706">
+          <caret line="1653" column="39" selection-start-line="1652" selection-start-column="59" selection-end-line="1653" selection-end-column="39" />
+          <folding>
+            <element signature="n#div#0;n#xml#0;n#!!top" expanded="false" />
+            <element signature="n#div#1;n#xml#0;n#!!top" expanded="false" />
+            <element signature="n#div#2;n#xml#0;n#!!top" expanded="false" />
+            <element signature="n#div#3;n#xml#0;n#!!top" expanded="false" />
+            <element signature="n#div#4;n#xml#0;n#!!top" expanded="false" />
+            <element signature="n#div#5;n#xml#0;n#!!top" expanded="false" />
+            <element signature="n#div#6;n#xml#0;n#!!top" expanded="false" />
+            <element signature="n#div#7;n#xml#0;n#!!top" expanded="false" />
+            <element signature="n#div#8;n#xml#0;n#!!top" expanded="false" />
+            <element signature="n#div#9;n#xml#0;n#!!top" expanded="false" />
+            <element signature="n#div#10;n#xml#0;n#!!top" expanded="false" />
+            <element signature="n#div#11;n#xml#0;n#!!top" expanded="false" />
+            <element signature="n#div#12;n#xml#0;n#!!top" expanded="false" />
+            <element signature="n#div#13;n#xml#0;n#!!top" expanded="false" />
+            <element signature="n#div#14;n#xml#0;n#!!top" expanded="false" />
+            <element signature="n#div#15;n#xml#0;n#!!top" expanded="false" />
+            <element signature="n#div#16;n#xml#0;n#!!top" expanded="false" />
+            <element signature="n#div#17;n#xml#0;n#!!top" expanded="false" />
+            <element signature="n#div#18;n#xml#0;n#!!top" expanded="false" />
+            <element signature="n#div#19;n#xml#0;n#!!top" expanded="false" />
+            <element signature="n#div#20;n#xml#0;n#!!top" expanded="false" />
+            <element signature="n#div#21;n#xml#0;n#!!top" expanded="false" />
+            <element signature="n#div#22;n#xml#0;n#!!top" expanded="false" />
+            <element signature="n#div#23;n#xml#0;n#!!top" expanded="false" />
+            <element signature="n#div#24;n#xml#0;n#!!top" expanded="false" />
+            <element signature="n#div#25;n#xml#0;n#!!top" expanded="false" />
+            <element signature="n#div#26;n#xml#0;n#!!top" expanded="false" />
+            <element signature="n#div#27;n#xml#0;n#!!top" expanded="false" />
+            <element signature="n#div#28;n#xml#0;n#!!top" expanded="false" />
+            <element signature="n#div#29;n#xml#0;n#!!top" expanded="false" />
+            <element signature="n#div#0;n#xml#1;n#!!top" expanded="false" />
+            <element signature="n#div#1;n#xml#1;n#!!top" expanded="false" />
+            <element signature="n#div#2;n#xml#1;n#!!top" expanded="false" />
+            <element signature="n#div#3;n#xml#1;n#!!top" expanded="false" />
+            <element signature="n#div#4;n#xml#1;n#!!top" expanded="false" />
+            <element signature="n#div#5;n#xml#1;n#!!top" expanded="false" />
+            <element signature="n#div#6;n#xml#1;n#!!top" expanded="false" />
+            <element signature="n#div#7;n#xml#1;n#!!top" expanded="false" />
+            <element signature="n#div#8;n#xml#1;n#!!top" expanded="false" />
+            <element signature="n#div#9;n#xml#1;n#!!top" expanded="false" />
+            <element signature="n#div#10;n#xml#1;n#!!top" expanded="false" />
+            <element signature="n#div#11;n#xml#1;n#!!top" expanded="false" />
+            <element signature="n#div#13;n#xml#1;n#!!top" expanded="false" />
+            <element signature="n#div#14;n#xml#1;n#!!top" expanded="false" />
+            <element signature="n#div#15;n#xml#1;n#!!top" expanded="false" />
+            <element signature="n#div#16;n#xml#1;n#!!top" expanded="false" />
+            <element signature="n#div#17;n#xml#1;n#!!top" expanded="false" />
+            <element signature="n#div#18;n#xml#1;n#!!top" expanded="false" />
+            <element signature="n#div#19;n#xml#1;n#!!top" expanded="false" />
+            <element signature="n#div#20;n#xml#1;n#!!top" expanded="false" />
+            <element signature="n#div#22;n#xml#1;n#!!top" expanded="false" />
+            <element signature="n#div#27;n#xml#1;n#!!top" expanded="false" />
+            <element signature="n#div#28;n#xml#1;n#!!top" expanded="false" />
+            <element signature="n#xml#2;n#!!top" expanded="false" />
+            <element signature="n#div#0;n#xml#2;n#!!top" expanded="false" />
+            <element signature="n#div#1;n#xml#2;n#!!top" expanded="false" />
+            <element signature="n#div#2;n#xml#2;n#!!top" expanded="false" />
+            <element signature="n#div#3;n#xml#2;n#!!top" expanded="false" />
+            <element signature="n#div#4;n#xml#2;n#!!top" expanded="false" />
+            <element signature="n#div#5;n#xml#2;n#!!top" expanded="false" />
+            <element signature="n#div#0;n#div#5;n#xml#2;n#!!top" expanded="false" />
+            <element signature="n#div#7;n#xml#2;n#!!top" expanded="false" />
+            <element signature="n#div#8;n#xml#2;n#!!top" expanded="false" />
+            <element signature="n#div#9;n#xml#2;n#!!top" expanded="false" />
+            <element signature="n#div#10;n#xml#2;n#!!top" expanded="false" />
+            <element signature="n#div#11;n#xml#2;n#!!top" expanded="false" />
+            <element signature="n#div#12;n#xml#2;n#!!top" expanded="false" />
+            <element signature="n#div#13;n#xml#2;n#!!top" expanded="false" />
+            <element signature="n#div#14;n#xml#2;n#!!top" expanded="false" />
+            <element signature="n#div#16;n#xml#2;n#!!top" expanded="false" />
+            <element signature="n#div#17;n#xml#2;n#!!top" expanded="false" />
+            <element signature="n#div#18;n#xml#2;n#!!top" expanded="false" />
+            <element signature="n#div#19;n#xml#2;n#!!top" expanded="false" />
+            <element signature="n#div#20;n#xml#2;n#!!top" expanded="false" />
+            <element signature="n#div#21;n#xml#2;n#!!top" expanded="false" />
+            <element signature="n#div#22;n#xml#2;n#!!top" expanded="false" />
+            <element signature="n#div#23;n#xml#2;n#!!top" expanded="false" />
+            <element signature="n#div#24;n#xml#2;n#!!top" expanded="false" />
+            <element signature="n#div#25;n#xml#2;n#!!top" expanded="false" />
+            <element signature="n#div#26;n#xml#2;n#!!top" expanded="false" />
+            <element signature="n#div#27;n#xml#2;n#!!top" expanded="false" />
+            <element signature="n#div#28;n#xml#2;n#!!top" expanded="false" />
+            <element signature="n#div#29;n#xml#2;n#!!top" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-11832">
+          <caret line="324" column="27" selection-start-line="294" selection-start-column="0" selection-end-line="1204" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="276">
+          <caret line="1080" column="101" selection-start-line="1080" selection-start-column="86" selection-end-line="1080" selection-end-column="101" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test2.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="846">
+          <caret line="4871" column="0" selection-start-line="4871" selection-start-column="0" selection-end-line="4871" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/target.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="130">
+          <caret line="5" column="4" selection-start-line="5" selection-start-column="4" selection-end-line="11" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/tcal_en.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="20" selection-start-line="11" selection-start-column="20" selection-end-line="11" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/tcal.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-4887">
+          <caret line="16" column="26" selection-start-line="16" selection-start-column="26" selection-end-line="16" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/init.php" />
+    <entry file="file://$PROJECT_DIR$/views/crawl_result.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="698">
+          <caret line="118" column="13" selection-start-line="118" selection-start-column="13" selection-end-line="118" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/views/debug.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" column="2" selection-start-line="13" selection-start-column="2" selection-end-line="13" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/option.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="66" selection-start-line="6" selection-start-column="66" selection-end-line="6" selection-end-column="66" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/tcal.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="248">
+          <caret line="68" column="42" selection-start-line="68" selection-start-column="42" selection-end-line="68" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/crawler_sovet.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="23" column="20" selection-start-line="23" selection-start-column="20" selection-end-line="26" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cookie.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/crawler_champion.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="630">
+          <caret line="116" column="4" selection-start-line="116" selection-start-column="4" selection-end-line="116" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/crawler_soccer.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="400">
+          <caret line="208" column="0" selection-start-line="208" selection-start-column="0" selection-end-line="214" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="378">
+          <caret line="14" column="35" selection-start-line="14" selection-start-column="35" selection-end-line="14" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/views/layout.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-169">
+          <caret line="32" column="0" selection-start-line="32" selection-start-column="0" selection-end-line="32" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/crawler_sports.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="79">
+          <caret line="60" column="31" selection-start-line="60" selection-start-column="31" selection-end-line="60" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/crawler_sportex.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="690">
+          <caret line="141" column="0" selection-start-line="141" selection-start-column="0" selection-end-line="141" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/parse_champion.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="392">
+          <caret line="27" column="45" selection-start-line="27" selection-start-column="45" selection-end-line="27" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/parse_sovet.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1634">
+          <caret line="6" column="22" selection-start-line="6" selection-start-column="22" selection-end-line="6" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/parse_sports.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="579">
+          <caret line="56" column="6" selection-start-line="56" selection-start-column="6" selection-end-line="56" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/parse_bob.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="588">
+          <caret line="70" column="23" selection-start-line="70" selection-start-column="23" selection-end-line="70" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/parse_soccer.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="639">
+          <caret line="70" column="20" selection-start-line="70" selection-start-column="20" selection-end-line="70" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/format.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1958">
+          <caret line="89" column="41" selection-start-line="89" selection-start-column="41" selection-end-line="89" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/history.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="67" selection-start-line="9" selection-start-column="67" selection-end-line="9" selection-end-column="67" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/views/delivery.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2261">
+          <caret line="133" column="13" selection-start-line="133" selection-start-column="13" selection-end-line="133" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/crawler_bob.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="800">
+          <caret line="85" column="26" selection-start-line="85" selection-start-column="26" selection-end-line="85" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/crawler_eurosport.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="140" column="5" selection-start-line="140" selection-start-column="5" selection-end-line="140" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/parse_sportex.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="5" column="6" selection-start-line="5" selection-start-column="4" selection-end-line="8" selection-end-column="66" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/parse_eurosport.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="25" column="66" selection-start-line="25" selection-start-column="66" selection-end-line="25" selection-end-column="66" />
+          <folding>
+            <element signature="e#1063#1564#0#PHP" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/option.css.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="49" selection-start-line="1" selection-start-column="49" selection-end-line="1" selection-end-column="49" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/views/init.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="13" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/helper.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1173">
+          <caret line="519" column="0" selection-start-line="519" selection-start-column="0" selection-end-line="519" selection-end-column="0" />
+          <folding>
+            <element signature="n#date_valid#0;n#!!top" expanded="false" />
+            <element signature="n#date_check5day#0;n#!!top" expanded="false" />
+            <element signature="n#get_yesterday#0;n#!!top" expanded="false" />
+            <element signature="n#get_pre_yesterday#0;n#!!top" expanded="false" />
+            <element signature="e#3196#3956#0#PHP" expanded="false" />
+            <element signature="n#shortpause2#0;n#!!top" expanded="false" />
+            <element signature="n#writeln#0;n#!!top" expanded="false" />
+            <element signature="n#get_bold#0;n#!!top" expanded="false" />
+            <element signature="n#num_month_to_name#0;n#!!top" expanded="false" />
+            <element signature="n#name_month_to_num#0;n#!!top" expanded="false" />
+            <element signature="n#month_name_convert_shorten_toru#0;n#!!top" expanded="false" />
+            <element signature="n#month_name_convert_shorten_tonum#0;n#!!top" expanded="false" />
+            <element signature="n#get_between#0;n#!!top" expanded="false" />
+            <element signature="n#XMLtoArray#0;n#!!top" expanded="false" />
+            <element signature="n#cutblock#0;n#!!top" expanded="false" />
+            <element signature="n#cut_leftspaces#0;n#!!top" expanded="false" />
+            <element signature="n#target_com#0;n#!!top" expanded="false" />
+            <element signature="n#target_news#0;n#!!top" expanded="false" />
+            <element signature="n#deb#0;n#!!top" expanded="false" />
+            <element signature="n#mb_str_replace#0;n#!!top" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/controller.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="493">
+          <caret line="59" column="9" selection-start-line="59" selection-start-column="9" selection-end-line="59" selection-end-column="9" />
+          <folding>
+            <element signature="e#79#630#0#PHP" expanded="false" />
+            <element signature="e#682#868#0#PHP" expanded="false" />
+            <element signature="e#1655#2278#0#PHP" expanded="false" />
+            <element signature="e#2283#2893#0#PHP" expanded="false" />
+            <element signature="e#2898#3499#0#PHP" expanded="false" />
+            <element signature="e#4108#4672#0#PHP" expanded="false" />
+            <element signature="e#4677#5259#0#PHP" expanded="false" />
+            <element signature="n#render#0;n#!!top" expanded="false" />
+            <element signature="n#crawl_render#0;n#!!top" expanded="false" />
+            <element signature="n#tech_render#0;n#!!top" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="18" selection-start-line="2" selection-start-column="18" selection-end-line="2" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

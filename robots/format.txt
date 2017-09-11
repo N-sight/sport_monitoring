@@ -1,0 +1,104 @@
+sports.ru
+            Краулер выдает:
+            'date' => string '07-06-2017 17:31' (length=16)
+            'header' => string 'Президент «Терека»: «Как бы кто ни идеализировал названия рек, гор, клуб будет с гордостью носить имя лидера Чечни»' (length=210)
+            'url' => string 'http://www.sports.ru/football/1051962886.html' (length=45)
+            'ss' => string '<a target="_blank" href="http://www.sports.ru/football/1051962886.html">Президент «Терека»: «Как бы кто ни идеализировал названия рек, гор, клуб будет с гордостью носить имя лидера Чечни»</a>' (length=286)
+            'comm' => int 55
+
+
+            Парсер выдаёт:
+            'id' => int 1051960208
+            'username' => string 'Гари Барлоу' (length=21)
+            'time' => string '07-06-2017 15:57' (length=16)
+            'text' => string 'Федун тоже когда-то Бекиечу поверил на слово,  а тот просто не вышел на работу' (length=140)
+            'url' => string 'http://www.sports.ru/football/1051956654.html' (length=45)
+            'header' => string 'Президент «Рубина»: «Наши интересы с Бердыевым совпали, осталось решить вопрос с Грасией»<br> | 76 | <b>07-06-2017 14:25</b>' (length=200)
+
+championat.com
+            Краулер выдаёт:
+            'date' => string '07-06-2017 17:53' (length=16)
+            'header' => string 'Рейна отказался продлить контракт с «Наполи» и требует зарплату € 3 млн за сезон' (length=147)
+            'url' => string 'http://www.championat.com/football/news-2820974-rejna-otkazalsja-prodlit-kontrakt-s-napoli-i-trebuet-zarplatu--3-mln-v-god.html' (length=127)
+            'comm' => int 5
+            'data-id' => string 'news_2820974' (length=12)
+
+            Парсер выдает:
+            'username' => string 'crazyjared' (length=10)
+            'time' => string '2017-06-07T14:45:22.829Z' (length=24)
+            'text' => string 'так конте к чемпионству не имеет никакого отношения. чемпионство - это деньги федуна кармане в мутко<b> (07-06-2017 17:45)</b>' (length=209)
+            'url' => string 'http://www.championat.com/football/news-2820782-zenit-predstavit-manchini-13-ijunja.html' (length=88)
+            'header' => string '«Зенит» представит Манчини 13 июня | 92 | <b>07-06-2017 13:50</b>' (length=93)
+sovsport.ru
+            Краулер выдаёт:
+            'date' => string '07-06-2017 20:07' (length=16)
+            'header' => string 'Рашид Рахимов: Решение о переименовании «Терека» - правильное' (length=113)
+            'url' => string 'http://www.sovsport.ru/news/text-item/985118' (length=44)
+            'data-id' => string '20170607200724915671' (length=20)
+            'comm' => int 0
+            'type' => string 'lefttext1' (length=9)
+            'date_check' => string '07 июня' (length=11)
+
+            Парсер выдаёт:
+            'username' => string 'petya' (length=5)
+            'time' => string '07 июня, 17:58' (length=19)
+            'text' => string 'Ходить он будет абсолютно нормально. И играть будет. Другой вопрос, на каком уровне.Очень многое зависит от психологии.  Это как после серьезной аварии.Сейчас Спартак переподпишет с Романом контракт на улучшенных условиях на 4 года. Это очень правильное решение. Не бросили парня в'... (length=777)
+            'url' => string 'http://www.sovsport.ru/news/text-item/985043' (length=44)
+            'header' => string 'Валерий Рейнгольд: Буду молиться, чтобы Зобнин вернулся к чемпионату мира во всеоружии | 6 | <b>07-06-2017 14:57</b>' (length=189)
+sport-express.ru
+            Краулер выдаёт:
+            'date' => string '07-06-2017 20:34' (length=16)
+            'comm' => int 1
+            'header' => string '"Милан" сделал официальное предложение по Белотти, "Торино" хочет 70 миллионов евро' (length=149)
+            'url' => string 'http://www.sport-express.ru/football/transfers/news/milan-sdelal-oficialnoe-predlozhenie-po-belotti-torino-hochet-70-millionov-evro-1266290/' (length=140)
+
+            Парсер выдаёт:
+            'username' => string 'Meddle' (length=6)
+            'text' => string '= Даль =Предлагаю &quot;Спартак&quot; переименовать в &quot;Леонид&quot;. Ведь несколько сотен миллионов фанатов, именно при Л.А.Федуне увидели первый титул любимой команды!07:37======= Слишком вычурно, имхо. Лучше просто ФК Арнольдыч. Просто и со вкусом. <b> (07-06-2017 14:56)</b>' (length=460)
+            'time' => string '07-06-2017 14:56' (length=16)
+            'url' => string 'http://www.sport-express.ru/football/rfpl/news/ramzan-kadyrov-groznenskiy-futbolnyy-klub-otnyne-nazyvaetsya-ahmat-1265963/' (length=122)
+            'header' => string 'Рамзан Кадыров: "Грозненский футбольный клуб отныне называется "Ахмат" | 49 | <b>07-06-2017 01:17</b>' (length=160)
+eurosport.ru
+            Краулер выдаёт:
+            'time' => string '07-06-2017 20:11' (length=16)
+            'header' => string 'Главный экспонат. Как выживает музей ФИФА в Цюрихе | 07-06-2017 20:11' (length=111)
+            'comm' => int 0
+            'url' => string 'http://www.eurosport.ru/football/story_sto6203946.shtml' (length=55)
+            'type' => string 'Футбол' (length=12)
+
+            Парсер выдаёт:
+            'text' => string 'Силёёён Арнольдыч :) Спартак - сила !' (length=64)
+            'time' => string '07-06-2017 21:08' (length=16)
+            'url' => string 'http://www.eurosport.ru/football/russian-premier-league/2016-2017/story_sto6205172.shtml' (length=88)
+            'header' => string '«Спартак» опередил все клубы РФПЛ по числу запросов в Яндексе | 07-06-2017 20:44' (length=132)
+            'userid' => string '6075214@eurosport-ru.fyre.co' (length=28)
+            'username' => string 'shurik87' (length=8)
+
+soccer.ru
+            Краулер выдаёт:
+            'date' => string '07-06-2017 23:26' (length=16)
+            'url' => string 'https://www.soccer0010.com/news/992743.shtml' (length=44)
+            'header' => string 'Официально&nbsp;«Бордо» продлил контракт с капитаном команды Плашилом' (length=126)
+            'comm' => int 0
+            'type' => string 'news' (length=4)
+
+            Парсер выдаёт:
+            'time' => string '07-06-2017 19:28' (length=16)
+            'text' => string 'Какого источника? Источник - это сам Зобнин или его агент, которые такими "новостями" разводят Федуна на повышение з/п. В Зените таких "зобниных" на 3 состава уже. Своих "юсоповых, цаллаговых, кокор и дзюб"  девать некуда!<b> (07-06-2017 19:28)</b>' (length=420)
+            'url' => string 'https://www.soccer0010.com/news/992720.shtml' (length=44)
+            'header' => string 'Слухи&nbsp;Зобнин отклонил предложение «Зенита» и продлил контракт со «Спартаком»' (length=148)
+            'username' => string 'stachel
+                                  ' (length=76)
+            bobsoccer.ru
+            Краулер выдаёт:
+            'url' => string 'http://bobsoccer.ru/user/38492/blog/?item=396757' (length=48)
+            'header' => string 'Стам и Зеедорф - в списке претендентов на пост наставника Аякса' (length=115)
+            'comm' => int 0
+            'date' => string '07-06-2017 23:39' (length=16)
+
+            Парсер выдаёт:
+            'url' => string 'http://bobsoccer.ru/user/37131/blog/?item=396621' (length=48)
+            'header' => string 'Тренерский штаб &quot;Спартака&quot; получил 2 млн евро за чемпионство | 07-06-2017 06:53 | 10' (length=143)
+            'text' => string '    Читай Известия, кто запрещает? Я говорю о другом Была информация от Федуна о премиальных.Далее дело техники, додумать в среднем сумму и предположить с кем Каррера поделится.Вот тебе и правдивая информация ,которую никто не опровергнет.Но это не Факт.Это выдуманная ,похожая на п�'... (length=557)
+            'time' => string '07-06-2017 08:56' (length=16)
+            'username' => string 'Ruvka' (length=13)
